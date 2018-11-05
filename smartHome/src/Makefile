@@ -1,0 +1,2 @@
+all:
+	arm-linux-gcc main.c ../lib/bmp.c ../lib/tslib.c ../lib/ui.c ../lib/vedio.c ../lib/mp3.c ../lib/file.c ../lib/mplayer.c ../lib/str.c ../lib/music.c ../lib/led.c ../lib/beep.c ../src/led_m.c ../src/camera.c ../src/ablum.c ../src/sxt.c ../src/jpeg.c ../src/welcom.c ../src/login.c ../src/help.c  ../ext/lib/libfont.a ../ext/show_video/lcd.c ../ext/show_video/common.c  -o smart -lpthread  -L../ext/show_video/jpeg -lapi_v4l2_arm -I../ext/show_video/jpeg -ljpeg
