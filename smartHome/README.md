@@ -53,7 +53,7 @@ Linux+Arm53+C语言
  ## 项目需要的库下载地址
 	https://download.csdn.net/download/qq_39188039/10773991 
 	下载后解压到ext目录下即可
-	
+	我的博客：https://blog.csdn.net/qq_39188039/article/details/83751526
  ## 项目安装 ##
  ```
  1.下载smart.tar.gz到CRT中，解压
