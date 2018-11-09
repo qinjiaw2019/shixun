@@ -50,7 +50,10 @@ Linux+Arm53+C语言
         |--main.c     主程序
         |--Makfile    自动编译脚本
 ```
-
+ ## 项目需要的库下载地址
+	https://download.csdn.net/download/qq_39188039/10773991 
+	下载后解压到ext目录下即可
+	
  ## 项目安装 ##
  ```
  1.下载smart.tar.gz到CRT中，解压
