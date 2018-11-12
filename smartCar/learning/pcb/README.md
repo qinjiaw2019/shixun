@@ -21,7 +21,7 @@ Altium Designer 18
   [2]: https://github.com/qinjiaw2019/shixun/blob/master/smartCar/learning/pcb/shortcut/1.png
   
   
-[博客地址：https://blog.csdn.net/qq_39188039/article/details/83987230][1]
+[博客地址：https://blog.csdn.net/qq_39188039/article/details/83987230][3]
 
 
-  [1]: https://blog.csdn.net/qq_39188039/article/details/83987230  
+  [3]: https://blog.csdn.net/qq_39188039/article/details/83987230  
